@@ -1,0 +1,2 @@
+# Radial-Basis-Function-Implementation
+This Python code implements an RBF Network to approximate a specific mapping over a defined region. We carry out the design of RBF NN based on Gaussian kernel functions with constant spread function and using all the points in the training set as centers of the RB functions. Centers are chosen randomly and with K-Means All performance and results analysis are shown in the notebook
